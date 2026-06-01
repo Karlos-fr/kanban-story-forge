@@ -2,6 +2,8 @@
 
 Kanban Story Forge est une application TypeScript/Vite generique pour piloter un backlog de User Stories.
 
+![Apercu de Kanban Story Forge](docs/image.png)
+
 Elle fournit une base autonome pour organiser et suivre des User Stories :
 
 - un tableau kanban par statut ;
