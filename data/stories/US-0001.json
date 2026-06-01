@@ -1,0 +1,54 @@
+{
+  "id": "US-0001",
+  "title": "Cadrer le besoin utilisateur",
+  "status": "ready",
+  "priority": "P0",
+  "persona": "Product owner",
+  "need": "decrire une User Story complete",
+  "benefit": "aligner l'equipe avant implementation",
+  "tags": [
+    "discovery",
+    "story"
+  ],
+  "sources": [
+    "atelier produit",
+    "feedback support"
+  ],
+  "acceptance": [
+    {
+      "text": "La persona est explicite",
+      "done": true
+    },
+    {
+      "text": "Le benefice utilisateur est formule",
+      "done": true
+    },
+    {
+      "text": "Les criteres d'acceptation sont testables",
+      "done": false
+    }
+  ],
+  "dor": [
+    {
+      "text": "Objectif metier valide",
+      "done": true
+    },
+    {
+      "text": "Dependances identifiees",
+      "done": true
+    }
+  ],
+  "dod": [
+    {
+      "text": "US relue par l'equipe",
+      "done": false
+    },
+    {
+      "text": "US exportee en Markdown",
+      "done": false
+    }
+  ],
+  "notes": "Exemple generique pour cadrer une User Story sans dependance a un domaine particulier.",
+  "created": "2026-06-01",
+  "updated": "2026-06-01"
+}

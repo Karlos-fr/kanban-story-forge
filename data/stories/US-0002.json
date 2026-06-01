@@ -1,0 +1,45 @@
+{
+  "id": "US-0002",
+  "title": "Construire le parcours de creation",
+  "status": "in_progress",
+  "priority": "P1",
+  "persona": "Chef de projet",
+  "need": "creer une US depuis le navigateur",
+  "benefit": "alimenter le backlog sans modifier des fichiers a la main",
+  "tags": [
+    "kanban",
+    "creation"
+  ],
+  "sources": [
+    "besoin equipe agile"
+  ],
+  "acceptance": [
+    {
+      "text": "Le formulaire permet de saisir titre, statut, priorite et criteres",
+      "done": true
+    },
+    {
+      "text": "La sauvegarde persiste apres rechargement",
+      "done": true
+    },
+    {
+      "text": "L'US peut etre exportee",
+      "done": false
+    }
+  ],
+  "dor": [
+    {
+      "text": "Champs minimum definis",
+      "done": true
+    }
+  ],
+  "dod": [
+    {
+      "text": "Creation testee dans le navigateur",
+      "done": false
+    }
+  ],
+  "notes": "",
+  "created": "2026-06-01",
+  "updated": "2026-06-01"
+}

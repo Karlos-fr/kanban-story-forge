@@ -1,0 +1,39 @@
+{
+  "id": "US-0003",
+  "title": "Synchroniser avec une sauvegarde portable",
+  "status": "draft",
+  "priority": "P2",
+  "persona": "Equipe projet",
+  "need": "importer et exporter le backlog",
+  "benefit": "partager l'etat du kanban entre postes",
+  "tags": [
+    "json",
+    "backup"
+  ],
+  "sources": [],
+  "acceptance": [
+    {
+      "text": "Export JSON complet",
+      "done": false
+    },
+    {
+      "text": "Import JSON avec validation minimale",
+      "done": false
+    }
+  ],
+  "dor": [
+    {
+      "text": "Format cible documente",
+      "done": false
+    }
+  ],
+  "dod": [
+    {
+      "text": "Import/export verifies sur un fichier reel",
+      "done": false
+    }
+  ],
+  "notes": "",
+  "created": "2026-06-01",
+  "updated": "2026-06-01"
+}
